@@ -3,6 +3,8 @@
 
 An Image Slide With Navigations
 
+## Hosted Link
+[carousel link](https://bigeaz01.github.io/Week-6-7-Zuri-task/)
 
 ## Screenshots
 
@@ -14,6 +16,3 @@ An Image Slide With Navigations
 - [@BigEaz01](https://github.com/BigEaz01)
 
 
-## Hosted Link
-
-[@carousellink](http)
